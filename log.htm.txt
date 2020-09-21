@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>jobseeking</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+	<div class="loginbox">
+	<img src="avatar.png" class="avatar">
+	<h1>Login Here</h1>
+		<form method="get" action="file:///F:/2018%20spring/Web%20programming/hack.htm">
+			<p>Username</p>
+			<input type="text" name="" placeholder="Enter Username">
+			<p>Password</p>
+			<input type="password" name="" placeholder="Enter password">
+			<input type="submit" name="" value="Login" >
+			<a href="file:///F:/2018%20spring/Web%20programming/link.html">Lost your password?</a><br>
+			<a href="file:///F:/2018%20spring/Web%20programming/account.htm">Dont have an account?</a>
+			</form>
+			</div>
+
+</body> 
+</head>
+</html>

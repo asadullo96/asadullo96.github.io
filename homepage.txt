@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  .navbar{
+    text-align:center;
+    width:100%;
+    background:transparent;
+    opacity:0.7;
+    margin-bottom: 50px;
+  }
+  .navbar ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+    position:relative;
+  }
+  .navbar ul li a{
+    display:block;
+    padding: 20px;
+    color:#5A118F;
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+  }
+  .navbar ul:after{
+    content: ""; clear:both;
+    display: block;
+  }
+  .navbar ul li {
+    float:left;
+    listy-style: none;
+    width: 150px;
+  }
+  .navbar ul ul {
+    display: none;
+  }
+  .navbar ul li:hover > ul {
+    display: block;
+  }
+  .navbar ul li:hover {
+    background: :black;
+    transition: 0.9s;
+  }
+  .navbar ul li:hover a{
+    color:#ffffff;
+  }
+  .navbar ul ul {
+    background:#283747;
+    padding:0;
+    margin:0;
+    position: absolute; top:100%;
+
+  }
+  .navbar ul ul li{
+    float:none;
+    position: relative;;
+  }
+  .navbar ul ul li a{
+    padding: 25px;
+    color: white;
+    width:auto;300px;
+    text-align: left;
+
+  }
+  .navbar ul ul li a:hover{
+    background:#D5D8DC ;
+    color:black;
+    transition: 0.9s;
+  }
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      border-color: #5A118F;
+      color: #000000;
+    }
+    th, td {
+      padding: 10px;
+    }
+    th {
+      text-align: left;
+      }
+    h1{
+      color:#5A118F;
+    }h2{
+	color:#5A118F;}
+    p{
+      color:#7C35B0;
+    }
+    body{
+      background-color:#ffffff;
+    }
+  </style>
+</head>
+<body>
+  <div class = "navbar">
+    <ul>
+      <li><a href = "index.htm"><b>DESTINATIONS</b></a>
+        <ul>
+          <li> <a href = "https://whc.unesco.org/en/list/603"><b>SAMARKAND</b></a></li>
+          <li> <a href = "https://www.people-travels.com/uzbekistan-cities/bukhara/"><b>BUKHARA</b></a></li>
+          <li> <a href = "http://dsr.nii.ac.jp/khiva/en/01info.html"><b>KHIVA</b></a></li>
+        </ul>
+      </li>
+      <li> <a href = "#tours"><b>TOURS</b></a>
+        <ul>
+          <li> <a href = "https://www.advantour.com/uzbekistan/history.htm"><b>HISTORY</b></a></li>
+          <li> <a href = "https://www.advantour.com/uzbekistan/culture.htm"><b>CULTURE</b></a></li>
+          <li> <a href = "https://www.worldatlas.com/as/uz/where-is-uzbekistan.html"><b>LOCATION</b></a></li>
+        </ul>
+      </li>
+      <li> <a href = "#blog"><b>BLOG</b></a>
+        <ul>
+          <li> <a href = "https://www.lonelyplanet.com/uzbekistan"><b>TRAVEL AROUND UZBEKISTAN</b></a></li>
+          
+        </ul>
+      </li>
+     
+           <li> <a href = "#gallery"><b>GALLERY</b></a>
+        <ul>
+          <li> <a href = "https://pixabay.com/en/photos/uzbekistan/"><b>PHOTOS</b></a></li>
+          <li> <a href = "https://www.youtube.com/watch?v=Vm-MMki4sY4"><b>VIDEOS</b></a></li>
+          <li> <a href = "https://www.google.co.kr/maps/place/Uzbekistan/@41.0303426,55.5858,5z/data=!3m1!4b1!4m5!3m4!1s0x38ae8b20a5d676b1:0xca0a6dad7e841e20!8m2!3d41.377491!4d64.585262"><b>MAPS</b></a></li>
+        </ul>
+		<li> <a href = "#aboutus"><b>ABOUT US</b></a>
+        <ul>
+          <li> <a href = "file:///F:/2018%20spring/Web%20programming/jobseek.htm"><b>CONTACT INFORMATION</b></a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  </html>
+  <h1><center>TRAVEL TO UZBEKISTAN </center></h1>
+<hr color="##D3D9EE">
+<a href="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel.jpg" data-size="1620x1080">
+ <img class="aligncenter size-full wp-image-4301" src="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel.jpg" alt="Uzbekistan travel" width="1620" height="1080" srcset="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel.jpg 1620w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-370x246.jpg 370w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-768x512.jpg 768w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-1024x683.jpg 1024w, 
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-600x400.jpg 600w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-278x185.jpg 278w,
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-1000x667.jpg 1000w" 
+ sizes="(max-width: 1620px) 100vw, 1620px" /></a></p>
+<table style="width:100%">
+<center><h2>Uzbekistan is one of the fascinating countries in Central Asia
+ and famous for its Silk Road cities of Samarkand and Bukhara. 
+ Twice the size of the UK, it has a rich cultural heritage and a long history steeped
+ in tradition.  You won’t be surprised to learn that it is home to four significant UNESCO 
+ World Heritage sites and six <a href="http://whc.unesco.org/en/statesparties/uz">UNESCO</a>
+ Intangible Cultural Heritage listings.  Another thirty are waiting in the wings on the Tentative List.
+ From such a rich list of important places to visit, things to do and an enormous variety of sightseeing
+ tours on offer, we present you with our pick of Uzbekistan Travel.</h2></center>
+<center><a data-size="1024x768" href="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/Uzbekistan.png">
+<img class="aligncenter size-full wp-image-5353" src="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/Uzbekistan.png" 
+alt="Uzbekistan" width="1024" height="768" srcset="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/Uzbekistan.png
+ 1024w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/Uzbekistan-341x256.png 341w, https://d17nhi816jf02p.cloudfront.net
+ /wp-content/uploads/2017/04/Uzbekistan-768x576.png 768w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/Uzbekistan-533x400.png 
+ 533w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/Uzbekistan-247x185.png 247w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/Uzbekistan
+ -1000x750.png 1000w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></center>
+ <h1>#1SAMARKAND</h1>
+ <center><p>“Samarkand – Crossroad of Cultures” is the official moniker used to describe this city as
+ a UNESCO World Heritage site.  Samarkand conjures up images of ancient times and sounds almost
+ mythical.  However, this is no fairytale: Samarkand today is a lively city which cherishes its 
+ traditions.  Archaeological excavations have revealed a history which dates back 3500 years;
+ the town of Afrosiab was founded in the 7th century BC.  The area was continuously inhabited
+ and served as a melting pot of diverse cultures.  It was conquered by Alexander the Great and 
+ Genghis Khan, was the sumptuous capital of the Timurid Empire and played an important role in
+ the development of Islamic architecture and arts.  You won’t want to miss Registan square, the 
+ Bibi Khanum and Gur Emir Mausoleums, the Shah-i-Zinda complex, Afrosiab  & the Ulughbek Observatory.</p></center>
+ <br>
+ <center><a href="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-samarkand.jpg" 
+ data-size="1620x1080"><img class="wp-image-4302 size-full" src="https://d17nhi816jf02p.cloudfront.net/wp-content/
+ uploads/2017/04/uzbekistan-travel-samarkand.jpg" alt="Uzbekistan travel, Samarkand" width="1024" height="768"
+ srcset="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-samarkand.jpg 1620w,
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-samarkand-370x246.jpg 370w, 
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-samarkand-768x512.jpg 768w, 
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-samarkand-1024x683.jpg 1024w,
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-samarkand-600x400.jpg 600w, 
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-samarkand-278x185.jpg 278w,
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/uzbekistan-travel-samarkand-1000x667.jpg 1000w" 
+ sizes="(max-width: 1620px) 100vw, 1620px" /></a></center>
+ <h1>#2 BUKHARA</h1>
+ <center><p>The historic center of Bukhara has been an important base for Islamic theology and science 
+ for several centuries.  Its well-preserved city center was recognized by UNESCO as an exemplary 
+ medieval city.  City planning, urban, economic and scientific development in Bukhara had a
+ large impact on the Islamic World in the Middle Ages.  The earliest architectural monument is
+ the tomb of Ismail Somoni dating back to the 10th century. For seven centuries up until the 16th century, 
+ it was the largest Islamic center for the study of Sufism with hundreds of mosques and madrasas 
+ or learning places.  World-renowned scholar Avicenna was born near Bukhara and grew up there.  
+ While in Bukhara we’d recommend taking a stroll around the old city to savor its architectural 
+ legacy and imagine yourself bargaining as they would have done in medieval times.
+</p></center>
+<br>
+<center><a href="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/bukhara-uzbekistan-travel.jpg" 
+data-size="1500x1000"><img class="wp-image-2560 size-full" src="https://d17nhi816jf02p.cloudfront.net/wp-content/
+uploads/2017/04/bukhara-uzbekistan-travel.jpg" alt="minaret in bukhara during uzbekistan travel"
+ width="1024" height="768" srcset="https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/bukhara-uzbekistan
+ -travel.jpg 1500w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/bukhara-uzbekistan-travel-370x246.jpg 
+ 370w, https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/bukhara-uzbekistan-travel-768x512.jpg 768w, 
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/bukhara-uzbekistan-travel-1024x683.jpg 1024w, 
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/bukhara-uzbekistan-travel-600x400.jpg 600w, 
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/bukhara-uzbekistan-travel-278x185.jpg 278w, 
+ https://d17nhi816jf02p.cloudfront.net/wp-content/uploads/2017/04/bukhara-uzbekistan-travel-1000x667.jpg 1000w" 
+ sizes="(max-width: 1500px) 100vw, 1500px" /></a></center>
+ <br>
+ <h1>#3 KHIVA</h1>
+ <center><p>The first UNESCO World Heritage site in Uzbekistan was inscribed in 1990 noting its importance 
+ in the exceptional heritage of ancient Silk Road traditions.  Itchan Kala, which literally translates 
+ as the inner part of the old city, is surrounded by thick mud walls.  It contains 51 monuments and is 
+ although around 250 households still make their home inside, it feels more like an open-air museum. 
+ Looking down from Djuma minaret or the city walls, it’s hard to imagine this is the 21st century.  It is
+ here in Khiva that the scholar AI-Khoresmi, the father of algebra, was born and introduced algorithms to the world.
+ Take a guided tour to get to know the stories that feature in the history of this fascinating city.</p></center>
+ <br>
+ <center><h3>UZBEKISTAN IN VIDEOS</h3></center>
+<center>  <iframe width=1024 height=512 src="https://www.youtube.com/embed/hsCsmGIlhgM?list=PLB7YW9UA5bJjyzxvnp8FlzTJ8-kJCQGrX&amp;rel=0&amp;controls=1&amp;showinfo=0" 
+frameborder="0" allowfullscreen style="margin-bottom: 20px;"></iframe>
+ </center>
+ 
+ <br>
+ <br>
+ 
+ <div class="container" id="" role="main">
+	<div id="atglance" class="content-inner top-space bottom-space">
+<section>
+	<h3 class="section-title-h-none text-center">At a glance</h3>
+	<div class="row border-space-atglance entry-content-single">
+		<div class="col-md-6 col-sm-6 col-xs-12 atglance-firs-col">
+			<ul>
+				<li>Population:</li>
+				<li>32,328,427</li>
+			</ul>
+			<ul>
+				<li>Area:</li>
+				<li>448,978km²</li>
+			</ul>
+			<ul>
+				<li>Languages:</li>
+				<li>Uzbek</li>
+				<li>Russian</li>
+			</ul>
+		</div>
+ 
+<div style='text-align: right;position: fixed;z-index:9999999;bottom: 0; width: 100%;cursor: pointer;line-height: 0;display:block !important;'><a title="Hosted on free web hosting 000webhost.com. Host your own website for FREE." target="_blank" href="https://www.000webhost.com/?utm_source=000webhostapp&amp;utm_campaign=000_logo&amp;utm_medium=website_wearied-shocks&amp;utm_content=footer_img"><img src="https://cdn.rawgit.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png"  alt="www.000webhost.com"></a></div></body>
+</html>
