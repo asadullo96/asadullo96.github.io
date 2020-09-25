@@ -158,7 +158,7 @@ body {
   </style>
 </head>
 <body> 
-	<div class = "navbar">
+	<div class="topnav" id="myTopnav">
     <ul>
       <li><a href = "index.htm" max-width: 100%; height: auto;><b>DESTINATIONS</b></a>
         <ul>
@@ -191,7 +191,18 @@ body {
         <ul>
           <li> <a href = "file:///F:/2018%20spring/Web%20programming/jobseek.htm" target="_blank"><b>CONTACT INFORMATION</b></a></li>
         </ul>
-			<i class="fa fa-bars"></i>
+			<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+				<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
       </li>
     </ul>
   </div>
